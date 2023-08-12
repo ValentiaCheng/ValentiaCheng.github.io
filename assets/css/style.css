@@ -1245,6 +1245,9 @@ canvas {
   .st-hero.st-style2 p br {
     display: none;
   }
+  .st-contact-info-wrap {
+    display: block!important;
+  }
 }
 @media screen and (max-width: 575px) {
   .st-hero.st-style1 {
